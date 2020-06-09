@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages, customized, testing
 
 You can use the [editor on GitHub](https://github.com/chrisxie-fw/ossi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## my header 1
 
 ```markdown
 Syntax highlighted code block
@@ -20,7 +21,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+3. 3rd list
+4. 4th list item
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
